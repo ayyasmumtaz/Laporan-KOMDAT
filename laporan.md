@@ -20,7 +20,7 @@ Untuk memastikan akses yang aman dan manajemen pengguna, kami mengintegrasikan O
 
 ## Deployment
 
-KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkelanjutan dan hosting. Proses penyebaran ini diatur dengan baik, memungkinkan penyebaran otomatis setiap kali perubahan diunggah ke repositori. Versi langsung dari KomGallery dapat diakses di https://komgallery.netlify.app, di mana pengguna dapat menjelajahi fitur dan fungsionalitasnya.
+KomGallery di-deploy menggunakan Netlify, yaitu platform besar untuk hosting dan juga deployment berkelanjutan. Proses deployment ini diatur dengan baik, sehingga memungkinkan deployment otomatis setiap kali ada perubahan yang diunggah ke repositori. Versi langsung dari KomGallery dapat diakses di https://komgallery.netlify.app, di mana pengguna dapat menjelajahi fitur dan fungsionalitasnya.
 
 ## Getting Started
 
