@@ -46,15 +46,16 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
   cd frontend
   ```
 - Instalasi React.js dan Tailwind css
-  Create React App
+  - Create React App
   ```
   npx create-react-app ./
   ```
-  Install Tailwind css
+  - Install Tailwind css
   ```
   npm install -D tailwindcss
+  npx tailwindcss init
   ```
-  untuk lebih lanjut buka: https://tailwindcss.com/docs/guides/create-react-app
+  untuk lebih lanjut kunjungi: https://tailwindcss.com/docs/guides/create-react-app
 
 
 
