@@ -55,6 +55,14 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
   npm install -D tailwindcss
   ```
   untuk lebih lanjut kunjungi: https://tailwindcss.com/docs/guides/create-react-app
+- Install necessary dependencies
+  ```
+  npm install @sanity/client @sanity/image-url react-google-login react-icons react-loader-spinner react-masonry-css react-router-dom uui
+  ```
+- Start React App di localhost:3000
+  ```
+  npm start
+  ```
 
 
 
