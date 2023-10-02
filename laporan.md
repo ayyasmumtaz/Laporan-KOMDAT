@@ -20,5 +20,26 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
 
 ## Getting Started
 
+### Instalasi
+#### System Requirement
+- Windows, MacOS atau Linux
+- `nodejs` latest version
+- `npm` latest version
+- Code Editor ex. Visual Studio Code
+
+#### Proses Instalasi
+- Buat direktori untuk menampung file
+  ```
+  mkdir nama-direktori
+  cd nama-direktori
+  ```
+- Clone Komgallery kedalam deriktori yang suadah dibuat menggunakan Git-Bash
+  ```
+  git clone https://github.com/ayyasmumtaz/Komgallery.git
+  ```
+- Buka direktori di code editor yang anda gunakan
+
+### instalasi dependencies
+
 
 
