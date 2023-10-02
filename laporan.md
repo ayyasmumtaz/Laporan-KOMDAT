@@ -10,13 +10,13 @@ KomGallery adalah aplikasi media sosial yang dirancang khusus untuk mahasiswa Il
 
 ## Technology Stack
 
-Frontend KomGallery dikembangkan menggunakan HTML, CSS, dan JavaScript sebagai bahasa pemrograman inti. Untuk membangun antarmuka pengguna yang kuat dan interaktif, kami memilih kerangka kerja React.js. Dengan memanfaatkan kekuatan React.js, kami menggunakan konsep-konsep kunci seperti komponen, props, manajemen state, dan metode siklus hidup komponen untuk mengorganisir dan mengelola logika tampilan aplikasi dengan efisien. Selain itu, kami menggunakan kerangka kerja Tailwind CSS, yang mengikuti pendekatan utilitas pertama, memungkinkan kami untuk dengan mudah mengonfigurasi struktur tata letak dan menerapkan gaya CSS yang telah ditentukan sebelumnya untuk meningkatkan estetika visual dan responsivitas aplikasi.
+Frontend KomGallery dikembangkan menggunakan HTML, CSS, dan JavaScript sebagai bahasa pemrograman inti. Untuk membangun antarmuka pengguna yang kuat dan interaktif, kami memilih framework React.js. Dengan memanfaatkan kekuatan React.js, kami menggunakan konsep-konsep kunci seperti komponen, props, manajemen state, dan metode siklus hidup komponen untuk mengorganisir dan mengelola logika tampilan aplikasi dengan efisien. Selain itu, kami menggunakan kerangka kerja Tailwind CSS, yang mengikuti pendekatan utilitas pertama, memungkinkan kami untuk dengan mudah mengonfigurasi struktur tata letak dan menerapkan gaya CSS yang telah ditentukan sebelumnya untuk meningkatkan estetika visual dan responsivitas aplikasi.
 
 Di bagian Backend, kami mengadopsi pendekatan CMS tanpa kepala dengan menggunakan Sanity. Sanity bertindak sebagai penyedia konten dan berfungsi sebagai repositori sentral untuk menyimpan berbagai konten aplikasi, termasuk foto yang diunggah oleh pengguna. Dengan memanfaatkan API JavaScript yang disediakan oleh Sanity, kami secara lancar berinteraksi dengan sistem manajemen konten untuk melakukan operasi CRUD (Create, Read, Update, Delete) yang penting, memastikan manajemen dan pengambilan konten yang efisien.
 
 ## User Authentication
 
-Untuk memastikan akses yang aman dan manajemen pengguna, kami mengintegrasikan Otentikasi Google (OAuth) sebagai layanan pihak ketiga. Dengan memanfaatkan OAuth, pengguna dapat masuk ke KomGallery dengan aman menggunakan akun Google mereka, menghilangkan kebutuhan untuk manajemen otentikasi pengguna secara manual. Integrasi ini bergantung pada infrastruktur keamanan yang kuat yang disediakan oleh Google, memastikan otentikasi pengguna yang lancar, andal, dan sangat aman.
+Untuk memastikan akses yang aman dan manajemen pengguna, kami mengintegrasikan Otentikasi Google (OAuth) sebagai layanan pihak ketiga. Dengan memanfaatkan OAuth, pengguna dapat masuk ke KomGallery dengan aman menggunakan akun Google mereka sehingga menghilangkan kebutuhan untuk manajemen otentikasi pengguna secara manual. Integrasi ini bergantung pada infrastruktur keamanan yang disediakan oleh Google agar dapat memastikan otentikasi pengguna yang lancar, andal, dan sangat aman.
 
 ## Deployment
 
