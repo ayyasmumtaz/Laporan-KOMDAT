@@ -1,5 +1,7 @@
 # KomGallery
 
+## Deskripsi Singkat
+
 KomGallery adalah aplikasi media sosial yang dirancang khusus untuk mahasiswa Ilmu Komputer di Universitas IPB. Ini berfungsi sebagai platform untuk berbagi foto dengan lancar di antara komunitas mahasiswa, memfasilitasi kolaborasi, dan memupuk rasa keterlibatan komunitas. Pengguna dapat mengunggah, memberi komentar, menyimpan, dan mengunduh foto, serta mengaitkan tautan yang relevan dengan setiap foto, memungkinkan manfaat tambahan seperti promosi acara dan sumber daya terkait.
 
 ## Technology Stack
