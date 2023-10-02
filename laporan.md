@@ -33,13 +33,29 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
   mkdir nama-direktori
   cd nama-direktori
   ```
-- Clone Komgallery kedalam deriktori yang suadah dibuat menggunakan Git-Bash
+- Clone Komgallery kedalam direktori yang sudah dibuat menggunakan Git-Bash
   ```
   git clone https://github.com/ayyasmumtaz/Komgallery.git
   ```
 - Buka direktori di code editor yang anda gunakan
 
 ### instalasi dependencies
+- Buka terminal pada code editor
+- Pindah ke direktori frontend
+  ```
+  cd frontend
+  ```
+- Instalasi React.js dan Tailwind css
+  Create React App
+  ```
+  npx create-react-app ./
+  ```
+  Install Tailwind css
+  ```
+  npm install -D tailwindcss
+  ```
+  untuk lebih lanjut buka: https://tailwindcss.com/docs/guides/create-react-app
+
 
 
 
