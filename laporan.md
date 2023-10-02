@@ -53,7 +53,6 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
   - Install Tailwind css
   ```
   npm install -D tailwindcss
-  npx tailwindcss init
   ```
   untuk lebih lanjut kunjungi: https://tailwindcss.com/docs/guides/create-react-app
 
