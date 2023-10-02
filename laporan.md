@@ -79,7 +79,9 @@ KomGallery di-deploy menggunakan Netlify, yaitu platform besar untuk hosting dan
   ```
   npm start
   ```
-  
+##Kelebihan
+##Kekurangan
+
 ![Imgur](https://i.imgur.com/ogfqQym.png)
 
 
