@@ -75,6 +75,7 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
   ```
   npm start
   ```
+  
 ![Imgur](https://i.imgur.com/ogfqQym.png)
 
 
