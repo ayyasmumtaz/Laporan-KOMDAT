@@ -6,6 +6,8 @@
 
 KomGallery adalah aplikasi media sosial yang dirancang khusus untuk mahasiswa Ilmu Komputer di Universitas IPB. Ini berfungsi sebagai platform untuk berbagi foto dengan lancar di antara komunitas mahasiswa, memfasilitasi kolaborasi, dan memupuk rasa keterlibatan komunitas. Pengguna dapat mengunggah, memberi komentar, menyimpan, dan mengunduh foto, serta mengaitkan tautan yang relevan dengan setiap foto, memungkinkan manfaat tambahan seperti promosi acara dan sumber daya terkait.
 
+####Penjelasan fitur
+
 ## Technology Stack
 
 Frontend KomGallery dikembangkan menggunakan HTML, CSS, dan JavaScript sebagai bahasa pemrograman inti. Untuk membangun antarmuka pengguna yang kuat dan interaktif, kami memilih kerangka kerja React.js. Dengan memanfaatkan kekuatan React.js, kami menggunakan konsep-konsep kunci seperti komponen, props, manajemen state, dan metode siklus hidup komponen untuk mengorganisir dan mengelola logika tampilan aplikasi dengan efisien. Selain itu, kami menggunakan kerangka kerja Tailwind CSS, yang mengikuti pendekatan utilitas pertama, memungkinkan kami untuk dengan mudah mengonfigurasi struktur tata letak dan menerapkan gaya CSS yang telah ditentukan sebelumnya untuk meningkatkan estetika visual dan responsivitas aplikasi.
