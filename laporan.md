@@ -22,43 +22,55 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
 
 ### Instalasi
 #### System Requirement
+
 - Windows, MacOS atau Linux
 - `nodejs` latest version
 - `npm` latest version
 - Code Editor ex. Visual Studio Code
 
 #### Proses Instalasi
+
 - Buat direktori untuk menampung file
   ```
   mkdir nama-direktori
   cd nama-direktori
   ```
+  
 - Clone Komgallery kedalam direktori yang sudah dibuat menggunakan Git-Bash
   ```
   git clone https://github.com/ayyasmumtaz/Komgallery.git
   ```
+  
 - Buka direktori di code editor yang anda gunakan
 
 ### instalasi dependencies
+
 - Buka terminal pada code editor
+  
 - Pindah ke direktori frontend
   ```
   cd frontend
   ```
+  
 - Instalasi React.js dan Tailwind css
+  
   - Create React App
   ```
   npx create-react-app ./
   ```
+  
   - Install Tailwind css
   ```
   npm install -D tailwindcss
   ```
+  
   untuk lebih lanjut kunjungi: https://tailwindcss.com/docs/guides/create-react-app
+  
 - Install necessary dependencies
   ```
   npm install @sanity/client @sanity/image-url react-google-login react-icons react-loader-spinner react-masonry-css react-router-dom uui
   ```
+  
 - Start React App di localhost:3000
   ```
   npm start
