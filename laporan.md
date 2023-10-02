@@ -43,7 +43,7 @@ KomGallery di-deploy menggunakan Netlify, platform kuat untuk penyebaran berkela
   
 - Buka direktori di code editor yang anda gunakan
 
-### instalasi dependencies
+### Instalasi dependencies
 
 - Buka terminal pada code editor
   
