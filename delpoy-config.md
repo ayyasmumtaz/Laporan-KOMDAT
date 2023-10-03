@@ -38,4 +38,11 @@ Dengan melakukan hal ini web yang kita buat dapat menerima maupun mengirim data 
 
 ## Google Authentication
 
-Web Komgallery menggunakan Google OAuth sebagai media login untuk user, agar fitur ini dapat digunakan berikut adalah cara cara yang harus dilakukan
+Web Komgallery menggunakan Google OAuth sebagai media login untuk user, agar fitur ini dapat digunakan berikut adalah cara cara yang harus dilakukan:
+- Masuk dan login ke Goolgle Cloud API & Services
+- Klik project Komgallery dan masuk kebagian credentials
+- Tambahkan url `https://komgallery.netlify.app/` pada authorized javascript origin dan authorized javascript URIs
+  
+  ![Imgur](https://imgur.com/aVz5SQ7.png)
+
+Dengan melakukan konfigurasi ini maka kita dapat mengguanakan Google Oauth pada web yg kita buat
