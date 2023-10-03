@@ -17,7 +17,9 @@ Web Komgallery di hosting menggunakan Netlify, berikut adalah step step yang dil
 - Netlify
   - Buka bagian deploy manually di Netlify
   - Drag and drop file Production Build
+    
     ![Imgur](https://imgur.com/Qd0cH5W)
+    
   - Web sudah bisa di akses, disini kita bisa mengubah nama domain sesuai dengan keinginan
 
 #### Database
