@@ -140,6 +140,10 @@ Web Komgallery menggunakan Google OAuth sebagai media login untuk user, agar fit
 Dengan melakukan konfigurasi ini maka kita dapat mengguanakan Google Oauth pada web yg kita buat
 
 
+##Cara Pemakaian
+Login page
+![Imgur](https://imgur.com/AAhUqUv.png)
+
 ## Kelebihan
 - Penggunaan Tech Stack modern memudahkan dalam proses instalasi website ini
 - Penggunaan Google OAuth dan CMS memudahkan dalam proses login maupun pertukaran data
