@@ -24,8 +24,15 @@ Web Komgallery di hosting menggunakan Netlify, berikut adalah step step yang dil
 
     ![Imgur](https://imgur.com/EFaMrhK.png)
 
-#### Database
-Web Komgallery menggunakan Content Management System 
 
+#### Database (Hanya dapat dilakukan oleh admin)
+Web Komgallery menggunakan Content Management System yaitu Sanity, berikut merupakan konfigurasi database agar bisa digunakan:
+- Masuk dan Login pada web sanity
+- Buka Admin Dashboard Komgallery pada sanity
+- Pilih Page API klik tombol add CORS origin dan masukan nama domain dari web yang kita buat, sebagi contoh `https://komgallery.netlify.app/`, pilih allow credentials dan klik save
+  
+![Imgur](https://imgur.com/aVz5SQ7.png)
+
+Dengan melakukan hal ini web yang kita buat dapat menerima maupun mengirim data pada database menggunakan API dari Sanity
 
 #### Google
