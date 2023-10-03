@@ -22,6 +22,8 @@ Web Komgallery di hosting menggunakan Netlify, berikut adalah step step yang dil
     
   - Web sudah bisa di akses, disini kita bisa mengubah nama domain sesuai dengan keinginan
 
+    ![Imgur](https://imgur.com/EFaMrhK.png)
+
 #### Database
 
 #### Google
