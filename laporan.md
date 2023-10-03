@@ -146,9 +146,11 @@ Dengan melakukan konfigurasi ini maka kita dapat mengguanakan Google Oauth pada 
 
 #### Main Page
 ![Imgur](https://imgur.com/vXHenQN.png)
+Tempat semua gambar ditampilkan. User dapat memilih kategori di sidebar, search bar, profil
 
 #### Upload Page
 ![Imgur](https://imgur.com/vXHenQN.png)
+
 
 #### Description Page
 ![Imgur](https://imgur.com/NM3MC0N.png)
