@@ -25,5 +25,7 @@ Web Komgallery di hosting menggunakan Netlify, berikut adalah step step yang dil
     ![Imgur](https://imgur.com/EFaMrhK.png)
 
 #### Database
+Web Komgallery menggunakan Content Management System 
+
 
 #### Google
