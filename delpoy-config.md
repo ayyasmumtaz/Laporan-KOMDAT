@@ -43,6 +43,6 @@ Web Komgallery menggunakan Google OAuth sebagai media login untuk user, agar fit
 - Klik project Komgallery dan masuk kebagian credentials
 - Tambahkan url `https://komgallery.netlify.app/` pada authorized javascript origin dan authorized javascript URIs
   
-  ![Imgur](https://imgur.com/aVz5SQ7.png)
+![Imgur](https://imgur.com/XgcDplg.png)
 
 Dengan melakukan konfigurasi ini maka kita dapat mengguanakan Google Oauth pada web yg kita buat
