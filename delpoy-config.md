@@ -1,6 +1,6 @@
-## Deploy Configuration
+# Deploy Configuration
 
-#### Hosting
+## Hosting
 Web Komgallery di hosting menggunakan Netlify, berikut adalah step step yang dilakukan:
 
 - Buat Folder Build
@@ -26,7 +26,7 @@ Web Komgallery di hosting menggunakan Netlify, berikut adalah step step yang dil
 
 
 
-#### Database (Hanya dapat dilakukan oleh admin)
+## Database (Hanya dapat dilakukan oleh admin)
 Web Komgallery menggunakan Content Management System yaitu Sanity, berikut merupakan konfigurasi database agar bisa digunakan:
 - Masuk dan Login pada web sanity
 - Buka Admin Dashboard Komgallery pada sanity
@@ -36,4 +36,4 @@ Web Komgallery menggunakan Content Management System yaitu Sanity, berikut merup
 
 Dengan melakukan hal ini web yang kita buat dapat menerima maupun mengirim data pada database menggunakan API dari Sanity
 
-#### Google
+## Google Authentication
