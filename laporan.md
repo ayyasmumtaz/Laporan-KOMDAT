@@ -141,10 +141,8 @@ Dengan melakukan konfigurasi ini maka kita dapat mengguanakan Google Oauth pada 
 
 
 ## Kelebihan
+- Penggunaan Tech Stack modern memudahkan dalam proses instalasi website ini
+- Penggunaan Google OAuth dan CMS memudahkan dalam proses login maupun pertukaran data
+
 ## Kekurangan
-
-
-
-
-
-
+- Penggunaan Netlify dan CMS kurang reliable  untuk commercial product atau penggunaan yang luas
