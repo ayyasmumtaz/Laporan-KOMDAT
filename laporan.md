@@ -118,7 +118,7 @@ Web Komgallery di hosting menggunakan Netlify, berikut adalah step step yang dil
 
 
 
-## Database (Hanya dapat dilakukan oleh admin)
+## Database
 Web Komgallery menggunakan Content Management System yaitu Sanity, berikut merupakan konfigurasi database agar bisa digunakan:
 - Masuk dan Login pada web sanity
 - Buka Admin Dashboard Komgallery pada sanity
