@@ -149,7 +149,7 @@ Dengan melakukan konfigurasi ini maka kita dapat mengguanakan Google Oauth pada 
 Tempat semua gambar ditampilkan. Ada sidebar kategori, search bar, dan profil user.
 
 #### Upload Page
-![Imgur](https://imgur.com/vXHenQN.png)
+![Imgur](https://imgur.com/UTIctyN.png)
 Page untuk memposting gambar dengan judul, deskripsi, kategori, dan link.
 
 #### Description Page
