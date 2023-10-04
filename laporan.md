@@ -146,17 +146,19 @@ Dengan melakukan konfigurasi ini maka kita dapat mengguanakan Google Oauth pada 
 
 #### Main Page
 ![Imgur](https://imgur.com/vXHenQN.png)
-Tempat semua gambar ditampilkan. User dapat memilih kategori di sidebar, search bar, profil
+Tempat semua gambar ditampilkan. Ada sidebar kategori, search bar, dan profil user.
 
 #### Upload Page
 ![Imgur](https://imgur.com/vXHenQN.png)
-
+Page untuk memposting gambar dengan judul, deskripsi, kategori, dan link.
 
 #### Description Page
 ![Imgur](https://imgur.com/NM3MC0N.png)
+User dapat memberi komentar, mendownload, dan mengklik link yang berkaitan dengan foto
 
 #### Profile Page
 ![Imgur](https://imgur.com/x3iG0Rb.png)
+Profil user. Tempat melihat gambar yang diupload dan disimpan.
 
 ## Kelebihan
 - Penggunaan Tech Stack modern memudahkan dalam proses instalasi website ini
